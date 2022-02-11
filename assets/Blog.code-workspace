@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "_layouts",
+			"path": "../../../../../../opt/homebrew/lib/ruby/gems/3.0.0/gems/minima-2.5.1/_layouts"
+		},
+		{
+			"name": "Blog",
+			"path": ".."
+		},
+		{
+			"name": "_includes",
+			"path": "../../../../../../opt/homebrew/lib/ruby/gems/3.0.0/gems/minima-2.5.1/_includes"
+		},
+		{
+			"name": "_sass",
+			"path": "../../../../../../opt/homebrew/lib/ruby/gems/3.0.0/gems/minima-2.5.1/_sass"
+		},
+		{
+			"name": "assets",
+			"path": "../../../../../../opt/homebrew/lib/ruby/gems/3.0.0/gems/minima-2.5.1/assets"
+		}
+	],
+	"settings": {}
+}

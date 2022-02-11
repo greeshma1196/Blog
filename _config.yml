@@ -28,7 +28,8 @@ twitter_username: AnnGreeshma
 github_username:  greeshma1196
 
 # Build settings
-theme: minima
+# Removed minima theme as it is now a regular theme
+#theme: minima
 plugins:
   - jekyll-feed
 
@@ -51,3 +52,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+gems:
+- jekyll-seo-tag
