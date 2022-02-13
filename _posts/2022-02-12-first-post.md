@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How does the Internet Work?"
-date:   2022-02-04 20:37:29 -0400
+date:   2022-02-04 20:37:29 -0400 
 categories: jekyll update
 ---
 We all know that Internet is a network of networks. It helps connect every system in the world. I can sit in my desk and request for some information and I will get it within a matter of seconds. How is it possible that a machine can retrieve information about something so random.
