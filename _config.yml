@@ -55,3 +55,4 @@ plugins:
 
 gems:
 - jekyll-seo-tag
+theme: jekyll-theme-minimal
